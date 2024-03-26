@@ -2,5 +2,5 @@
 
 <p align="center">Hey! I am zenvunu, a German/Filipino Java developer from Southeast Asia with experience in programming since 2018.</p>
 
--  Former Manager & Developer at [Aetherium Development](https://aetherium.club)
+-  Owner & Developer at [Aetherium Development](https://aetherium.club)
 
