@@ -1,4 +1,6 @@
 # 💫 About Me:
+<p align="center">Hey! I am zenvunu, a full-time student and most-of-the-time-if-im-free developer from Southeast Asia with experience in programming since 2018.</p>
+
 🔭 I’m currently working on: [Aetherium Client](https://aetherium.club/)<br><br>🌱 I’m currently learning: **Game Development in Unity**<br><br>📫 How to reach me: [z@aetherium.club](z@aetherium.club) or Discord: **.zsld**<br><br>⚡ Fun fact: i miss her
 
 ## 🌐 Socials:
