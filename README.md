@@ -13,5 +13,3 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zslddd&show_icons=true&locale=en" alt="zslddd" /></p>
