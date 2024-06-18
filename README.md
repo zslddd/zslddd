@@ -1,7 +1,7 @@
 # 💫 About Me:
 <p align="center">Hey! I am zenvunu, a full-time student and most-of-the-time-if-im-free developer from Southeast Asia with experience in programming since 2018.</p>
 
-🔭 I’m currently working on: **Project Codename Zen**<br><br>🌱 I’m currently learning: **Game Development in Unity**<br><br>📫 How to reach me: wil.ilysmm@gmail.com<br><br>⚡ 
+🔭 I’m currently working on: **Project Codename Zen**<br><br>🌱 I’m currently learning: **Game Development in Unity**<br><br>📫 How to reach me: wil.ilysmm@gmail.com<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zenvunu) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/zenvunu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zslddd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@zsldd) 
